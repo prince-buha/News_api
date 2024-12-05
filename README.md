@@ -10,14 +10,40 @@ A modern, user-friendly news app that brings you the latest headlines and storie
 - 📑 **Bookmark Articles**: Save your favorite articles for future reading.
 - 📲 **Share Articles**: Share news with friends via social media, messaging apps, or email.
 - 🛠️ **Customizable News Feed**: Tailor your feed to suit your interests and preferences.
-- 🌙 **Dark Mode**: Enjoy a comfortable reading experience day or night.
-- 🔔 **Push Notifications**: Get notified instantly about breaking news.
+
 
 ## 🚀 Installation
 
 Follow the steps below to get the app running on your local machine:
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/news-app.git
+
+
+## 📸 Screen Shorts 
+
+### SpleshScreen :
+
+   <img src="" width="300">
+
+### Homepage :
+
+   <img src="https://github.com/user-attachments/assets/ac82dae0-42a5-4ce2-b15a-024df34a0730" width="300">
+
+### detailpage Page :
+   <img src="https://github.com/user-attachments/assets/03f9f06e-2a4f-4d2e-9958-bc4849a25bf4" width="300">
+
+###  favorite Page :
+
+   <img src="https://github.com/user-attachments/assets/25056781-0809-4c2a-a017-b50fda10326a" width="300">
+
+
+## 📽️ Video : 
+
+   https://github.com/user-attachments/assets/474ab838-e725-4e25-abfe-a1de9f126d3b
+
+ ## Follow 👇
+  LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
+
+
+
+
