@@ -23,7 +23,7 @@ Follow the steps below to get the app running on your local machine:
 
 ### SpleshScreen :
 
-   <img src="" width="300">
+   <img src="https://github.com/user-attachments/assets/6ed654cc-e334-4613-9dfe-d7575377594e" width="300">
 
 ### Homepage :
 
@@ -39,9 +39,10 @@ Follow the steps below to get the app running on your local machine:
 
 ## 📽️ Video : 
 
-   https://github.com/user-attachments/assets/474ab838-e725-4e25-abfe-a1de9f126d3b
+https://github.com/user-attachments/assets/93299182-f436-4ad4-93c0-fef01304e7c2
 
- ## Follow 👇
+
+## Follow 👇
   LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
 
 
